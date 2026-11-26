@@ -33,7 +33,7 @@
   "id": "ar_climb",
   "lang": "ar",
   "publish_at_utc": "2026-11-26T10:38",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "ey-4J3SbEwU",
   "instagram_id": "buffer:6b080c982c18150e10465bc5",
   "meta": {
@@ -56,7 +56,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-26T10:40"
  },
  {
   "id": "en_wall",
