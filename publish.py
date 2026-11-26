@@ -112,7 +112,7 @@ def yt_token(secret_name):
 def yt_upload(r, mp4):
     tok, y, lang = yt_token(channel(r)["yt_secret"]), r["meta"]["youtube"], r["lang"]
     body = {"snippet": {"title": y["title"][:100], "description": y.get("description", "")[:5000], "tags": y.get("tags", []),
-                        "categoryId": "27", "defaultLanguage": lang, "defaultAudioLanguage": "zxx"},
+                        "categoryId": "27", "defaultLanguage": lang},
             "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}}
     size = mp4.stat().st_size
     st, h, b = http("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",

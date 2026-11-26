@@ -2,7 +2,7 @@
  {
   "id": "en_climb",
   "lang": "en",
-  "publish_at_utc": "2026-11-28T14:00",
+  "publish_at_utc": "2026-11-26T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -30,7 +30,7 @@
  {
   "id": "ar_climb",
   "lang": "ar",
-  "publish_at_utc": "2026-11-28T17:00",
+  "publish_at_utc": "2026-11-26T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -58,7 +58,7 @@
  {
   "id": "en_wall",
   "lang": "en",
-  "publish_at_utc": "2026-11-29T14:00",
+  "publish_at_utc": "2026-11-27T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -86,7 +86,7 @@
  {
   "id": "ar_wall",
   "lang": "ar",
-  "publish_at_utc": "2026-11-29T17:00",
+  "publish_at_utc": "2026-11-27T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -114,7 +114,7 @@
  {
   "id": "en_seed",
   "lang": "en",
-  "publish_at_utc": "2026-11-30T14:00",
+  "publish_at_utc": "2026-11-28T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -142,7 +142,7 @@
  {
   "id": "ar_seed",
   "lang": "ar",
-  "publish_at_utc": "2026-11-30T17:00",
+  "publish_at_utc": "2026-11-28T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -170,7 +170,7 @@
  {
   "id": "en_carry",
   "lang": "en",
-  "publish_at_utc": "2026-12-01T14:00",
+  "publish_at_utc": "2026-11-29T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -198,7 +198,7 @@
  {
   "id": "ar_carry",
   "lang": "ar",
-  "publish_at_utc": "2026-12-01T17:00",
+  "publish_at_utc": "2026-11-29T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -226,7 +226,7 @@
  {
   "id": "en_circle",
   "lang": "en",
-  "publish_at_utc": "2026-12-02T14:00",
+  "publish_at_utc": "2026-11-30T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -254,7 +254,7 @@
  {
   "id": "ar_circle",
   "lang": "ar",
-  "publish_at_utc": "2026-12-02T17:00",
+  "publish_at_utc": "2026-11-30T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -282,7 +282,7 @@
  {
   "id": "en_burden",
   "lang": "en",
-  "publish_at_utc": "2026-12-03T14:00",
+  "publish_at_utc": "2026-12-01T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -310,7 +310,7 @@
  {
   "id": "ar_burden",
   "lang": "ar",
-  "publish_at_utc": "2026-12-03T17:00",
+  "publish_at_utc": "2026-12-01T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -338,7 +338,7 @@
  {
   "id": "en_race",
   "lang": "en",
-  "publish_at_utc": "2026-12-04T14:00",
+  "publish_at_utc": "2026-12-02T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -366,7 +366,7 @@
  {
   "id": "ar_race",
   "lang": "ar",
-  "publish_at_utc": "2026-12-04T17:00",
+  "publish_at_utc": "2026-12-02T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -394,7 +394,7 @@
  {
   "id": "en_fork",
   "lang": "en",
-  "publish_at_utc": "2026-12-05T14:00",
+  "publish_at_utc": "2026-12-03T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -422,7 +422,7 @@
  {
   "id": "ar_fork",
   "lang": "ar",
-  "publish_at_utc": "2026-12-05T17:00",
+  "publish_at_utc": "2026-12-03T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -450,7 +450,7 @@
  {
   "id": "en_screen",
   "lang": "en",
-  "publish_at_utc": "2026-12-06T14:00",
+  "publish_at_utc": "2026-12-04T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -478,7 +478,7 @@
  {
   "id": "ar_screen",
   "lang": "ar",
-  "publish_at_utc": "2026-12-06T17:00",
+  "publish_at_utc": "2026-12-04T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -506,7 +506,7 @@
  {
   "id": "en_domino",
   "lang": "en",
-  "publish_at_utc": "2026-12-07T14:00",
+  "publish_at_utc": "2026-12-05T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -534,7 +534,7 @@
  {
   "id": "ar_domino",
   "lang": "ar",
-  "publish_at_utc": "2026-12-07T17:00",
+  "publish_at_utc": "2026-12-05T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
