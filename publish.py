@@ -234,8 +234,9 @@ def cmd_post():
 def cmd_check():
     ok = True
     try:
-        d = buffer("query { account { organizations { id channels { id name service } } } }")
-        have = {c["id"]: c for o in d["account"]["organizations"] for c in o["channels"]}
+        orgs = [o["id"] for o in buffer("query { account { organizations { id } } }")["account"]["organizations"]]
+        have = {c["id"]: c for oid in orgs
+                for c in buffer("query($i: ChannelsInput!) { channels(input: $i) { id name service } }", {"i": {"organizationId": oid}})["channels"]}
         for lang, ch in CFG["channels"].items():
             for plat, cid in ch["buffer"].items():
                 c = have.get(cid)
