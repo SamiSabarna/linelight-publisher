@@ -34,7 +34,7 @@
   "lang": "ar",
   "publish_at_utc": "2026-11-26T10:38",
   "status": "pending",
-  "youtube_id": "",
+  "youtube_id": "ey-4J3SbEwU",
   "instagram_id": "",
   "meta": {
    "text": "الكل يريد المنظر، والقليل يريد الصعود.",
@@ -55,7 +55,8 @@
      "shorts"
     ]
    }
-  }
+  },
+  "fails": {}
  },
  {
   "id": "en_wall",
