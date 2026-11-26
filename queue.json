@@ -63,7 +63,7 @@
   "id": "en_wall",
   "lang": "en",
   "publish_at_utc": "2026-11-26T17:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "",
   "instagram_id": "buffer:6b0865d5dba28007e9f38d46",
   "meta": {
@@ -86,7 +86,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-26T17:01"
  },
  {
   "id": "ar_wall",
