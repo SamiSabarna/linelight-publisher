@@ -94,7 +94,7 @@
   "lang": "ar",
   "publish_at_utc": "2026-11-26T18:00",
   "status": "pending",
-  "youtube_id": "",
+  "youtube_id": "aD4yALgpFj0",
   "instagram_id": "",
   "meta": {
    "text": "العمل الهادئ يصنع نتائج مسموعة.",
@@ -115,7 +115,8 @@
      "shorts"
     ]
    }
-  }
+  },
+  "fails": {}
  },
  {
   "id": "en_seed",
