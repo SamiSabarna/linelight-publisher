@@ -62,7 +62,7 @@
  {
   "id": "en_wall",
   "lang": "en",
-  "publish_at_utc": "2026-11-27T14:00",
+  "publish_at_utc": "2026-11-26T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -90,7 +90,7 @@
  {
   "id": "ar_wall",
   "lang": "ar",
-  "publish_at_utc": "2026-11-27T17:00",
+  "publish_at_utc": "2026-11-26T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -118,7 +118,7 @@
  {
   "id": "en_seed",
   "lang": "en",
-  "publish_at_utc": "2026-11-28T14:00",
+  "publish_at_utc": "2026-11-26T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -146,7 +146,7 @@
  {
   "id": "ar_seed",
   "lang": "ar",
-  "publish_at_utc": "2026-11-28T17:00",
+  "publish_at_utc": "2026-11-27T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -174,7 +174,7 @@
  {
   "id": "en_carry",
   "lang": "en",
-  "publish_at_utc": "2026-11-29T14:00",
+  "publish_at_utc": "2026-11-27T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -202,7 +202,7 @@
  {
   "id": "ar_carry",
   "lang": "ar",
-  "publish_at_utc": "2026-11-29T17:00",
+  "publish_at_utc": "2026-11-27T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -230,7 +230,7 @@
  {
   "id": "en_circle",
   "lang": "en",
-  "publish_at_utc": "2026-11-30T14:00",
+  "publish_at_utc": "2026-11-27T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -258,7 +258,7 @@
  {
   "id": "ar_circle",
   "lang": "ar",
-  "publish_at_utc": "2026-11-30T17:00",
+  "publish_at_utc": "2026-11-27T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -286,7 +286,7 @@
  {
   "id": "en_burden",
   "lang": "en",
-  "publish_at_utc": "2026-12-01T14:00",
+  "publish_at_utc": "2026-11-27T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -314,7 +314,7 @@
  {
   "id": "ar_burden",
   "lang": "ar",
-  "publish_at_utc": "2026-12-01T17:00",
+  "publish_at_utc": "2026-11-28T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -342,7 +342,7 @@
  {
   "id": "en_race",
   "lang": "en",
-  "publish_at_utc": "2026-12-02T14:00",
+  "publish_at_utc": "2026-11-28T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -370,7 +370,7 @@
  {
   "id": "ar_race",
   "lang": "ar",
-  "publish_at_utc": "2026-12-02T17:00",
+  "publish_at_utc": "2026-11-28T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -398,7 +398,7 @@
  {
   "id": "en_fork",
   "lang": "en",
-  "publish_at_utc": "2026-12-03T14:00",
+  "publish_at_utc": "2026-11-28T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -426,7 +426,7 @@
  {
   "id": "ar_fork",
   "lang": "ar",
-  "publish_at_utc": "2026-12-03T17:00",
+  "publish_at_utc": "2026-11-28T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -454,7 +454,7 @@
  {
   "id": "en_screen",
   "lang": "en",
-  "publish_at_utc": "2026-12-04T14:00",
+  "publish_at_utc": "2026-11-28T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -482,7 +482,7 @@
  {
   "id": "ar_screen",
   "lang": "ar",
-  "publish_at_utc": "2026-12-04T17:00",
+  "publish_at_utc": "2026-11-29T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -510,7 +510,7 @@
  {
   "id": "en_domino",
   "lang": "en",
-  "publish_at_utc": "2026-12-05T14:00",
+  "publish_at_utc": "2026-11-29T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -538,7 +538,7 @@
  {
   "id": "ar_domino",
   "lang": "ar",
-  "publish_at_utc": "2026-12-05T17:00",
+  "publish_at_utc": "2026-11-29T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -566,7 +566,7 @@
  {
   "id": "en_doors",
   "lang": "en",
-  "publish_at_utc": "2026-12-06T14:00",
+  "publish_at_utc": "2026-11-29T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -594,7 +594,7 @@
  {
   "id": "ar_doors",
   "lang": "ar",
-  "publish_at_utc": "2026-12-06T17:00",
+  "publish_at_utc": "2026-11-29T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -622,7 +622,7 @@
  {
   "id": "en_rocks",
   "lang": "en",
-  "publish_at_utc": "2026-12-07T14:00",
+  "publish_at_utc": "2026-11-29T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -650,7 +650,7 @@
  {
   "id": "ar_rocks",
   "lang": "ar",
-  "publish_at_utc": "2026-12-07T17:00",
+  "publish_at_utc": "2026-11-30T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -678,7 +678,7 @@
  {
   "id": "en_ladder",
   "lang": "en",
-  "publish_at_utc": "2026-12-08T14:00",
+  "publish_at_utc": "2026-11-30T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -706,7 +706,7 @@
  {
   "id": "ar_ladder",
   "lang": "ar",
-  "publish_at_utc": "2026-12-08T17:00",
+  "publish_at_utc": "2026-11-30T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -734,7 +734,7 @@
  {
   "id": "en_candles",
   "lang": "en",
-  "publish_at_utc": "2026-12-09T14:00",
+  "publish_at_utc": "2026-11-30T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -762,7 +762,7 @@
  {
   "id": "ar_candles",
   "lang": "ar",
-  "publish_at_utc": "2026-12-09T17:00",
+  "publish_at_utc": "2026-11-30T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -790,7 +790,7 @@
  {
   "id": "en_focus",
   "lang": "en",
-  "publish_at_utc": "2026-12-10T14:00",
+  "publish_at_utc": "2026-11-30T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -818,7 +818,7 @@
  {
   "id": "ar_focus",
   "lang": "ar",
-  "publish_at_utc": "2026-12-10T17:00",
+  "publish_at_utc": "2026-12-01T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -846,7 +846,7 @@
  {
   "id": "en_bridge",
   "lang": "en",
-  "publish_at_utc": "2026-12-11T14:00",
+  "publish_at_utc": "2026-12-01T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -874,7 +874,7 @@
  {
   "id": "ar_bridge",
   "lang": "ar",
-  "publish_at_utc": "2026-12-11T17:00",
+  "publish_at_utc": "2026-12-01T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -902,7 +902,7 @@
  {
   "id": "en_tug",
   "lang": "en",
-  "publish_at_utc": "2026-12-12T14:00",
+  "publish_at_utc": "2026-12-01T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -930,7 +930,7 @@
  {
   "id": "ar_tug",
   "lang": "ar",
-  "publish_at_utc": "2026-12-12T17:00",
+  "publish_at_utc": "2026-12-01T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -958,7 +958,7 @@
  {
   "id": "en_hourglass",
   "lang": "en",
-  "publish_at_utc": "2026-12-13T14:00",
+  "publish_at_utc": "2026-12-01T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -986,7 +986,7 @@
  {
   "id": "ar_hourglass",
   "lang": "ar",
-  "publish_at_utc": "2026-12-13T17:00",
+  "publish_at_utc": "2026-12-02T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1014,7 +1014,7 @@
  {
   "id": "en_weeds",
   "lang": "en",
-  "publish_at_utc": "2026-12-14T14:00",
+  "publish_at_utc": "2026-12-02T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1042,7 +1042,7 @@
  {
   "id": "ar_weeds",
   "lang": "ar",
-  "publish_at_utc": "2026-12-14T17:00",
+  "publish_at_utc": "2026-12-02T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1070,7 +1070,7 @@
  {
   "id": "en_footprints",
   "lang": "en",
-  "publish_at_utc": "2026-12-15T14:00",
+  "publish_at_utc": "2026-12-02T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1098,7 +1098,7 @@
  {
   "id": "ar_footprints",
   "lang": "ar",
-  "publish_at_utc": "2026-12-15T17:00",
+  "publish_at_utc": "2026-12-02T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1126,7 +1126,7 @@
  {
   "id": "en_anchor",
   "lang": "en",
-  "publish_at_utc": "2026-12-16T14:00",
+  "publish_at_utc": "2026-12-02T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1154,7 +1154,7 @@
  {
   "id": "ar_compass",
   "lang": "ar",
-  "publish_at_utc": "2026-12-16T17:00",
+  "publish_at_utc": "2026-12-03T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1182,7 +1182,7 @@
  {
   "id": "en_compass",
   "lang": "en",
-  "publish_at_utc": "2026-12-17T14:00",
+  "publish_at_utc": "2026-12-03T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1210,7 +1210,7 @@
  {
   "id": "ar_bucket",
   "lang": "ar",
-  "publish_at_utc": "2026-12-17T17:00",
+  "publish_at_utc": "2026-12-03T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1238,7 +1238,7 @@
  {
   "id": "en_bucket",
   "lang": "en",
-  "publish_at_utc": "2026-12-18T14:00",
+  "publish_at_utc": "2026-12-03T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1266,7 +1266,7 @@
  {
   "id": "ar_anchor",
   "lang": "ar",
-  "publish_at_utc": "2026-12-18T17:00",
+  "publish_at_utc": "2026-12-03T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1294,7 +1294,7 @@
  {
   "id": "en_umbrella",
   "lang": "en",
-  "publish_at_utc": "2026-12-19T14:00",
+  "publish_at_utc": "2026-12-03T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1322,7 +1322,7 @@
  {
   "id": "ar_umbrella",
   "lang": "ar",
-  "publish_at_utc": "2026-12-19T17:00",
+  "publish_at_utc": "2026-12-04T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1350,7 +1350,7 @@
  {
   "id": "en_battery",
   "lang": "en",
-  "publish_at_utc": "2026-12-20T14:00",
+  "publish_at_utc": "2026-12-04T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1378,7 +1378,7 @@
  {
   "id": "ar_battery",
   "lang": "ar",
-  "publish_at_utc": "2026-12-20T17:00",
+  "publish_at_utc": "2026-12-04T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1406,7 +1406,7 @@
  {
   "id": "en_fall",
   "lang": "en",
-  "publish_at_utc": "2026-12-21T14:00",
+  "publish_at_utc": "2026-12-04T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1434,7 +1434,7 @@
  {
   "id": "ar_fall",
   "lang": "ar",
-  "publish_at_utc": "2026-12-21T17:00",
+  "publish_at_utc": "2026-12-04T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1462,7 +1462,7 @@
  {
   "id": "en_echo",
   "lang": "en",
-  "publish_at_utc": "2026-12-22T14:00",
+  "publish_at_utc": "2026-12-04T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1490,7 +1490,7 @@
  {
   "id": "ar_echo",
   "lang": "ar",
-  "publish_at_utc": "2026-12-22T17:00",
+  "publish_at_utc": "2026-12-05T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1518,7 +1518,7 @@
  {
   "id": "en_seesaw",
   "lang": "en",
-  "publish_at_utc": "2026-12-23T14:00",
+  "publish_at_utc": "2026-12-05T13:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1546,7 +1546,7 @@
  {
   "id": "ar_seesaw",
   "lang": "ar",
-  "publish_at_utc": "2026-12-23T17:00",
+  "publish_at_utc": "2026-12-05T14:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1574,7 +1574,7 @@
  {
   "id": "en_against",
   "lang": "en",
-  "publish_at_utc": "2026-12-24T14:00",
+  "publish_at_utc": "2026-12-05T17:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1602,7 +1602,7 @@
  {
   "id": "ar_against",
   "lang": "ar",
-  "publish_at_utc": "2026-12-24T17:00",
+  "publish_at_utc": "2026-12-05T18:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1630,7 +1630,7 @@
  {
   "id": "en_chain",
   "lang": "en",
-  "publish_at_utc": "2026-12-25T14:00",
+  "publish_at_utc": "2026-12-05T23:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",
@@ -1658,7 +1658,7 @@
  {
   "id": "ar_chain",
   "lang": "ar",
-  "publish_at_utc": "2026-12-25T17:00",
+  "publish_at_utc": "2026-12-06T10:00",
   "status": "pending",
   "youtube_id": "",
   "instagram_id": "",

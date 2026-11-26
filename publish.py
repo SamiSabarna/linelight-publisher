@@ -187,11 +187,13 @@ def cmd_stage():
 
 def cmd_post():
     q = load()
+    nonlocal_flag = []
     for r in due_rows(q):
         vid = r["id"]
         fails = r.setdefault("fails", {})
 
         def failed(plat, err):
+            nonlocal_flag.append(1)
             fails[plat] = fails.get(plat, 0) + 1
             r["last_error"] = f"{plat}: {str(err)[:300]}"
             print(f"FAILED {vid} {plat} ({fails[plat]}): {err}")
@@ -229,6 +231,8 @@ def cmd_post():
             run(["gh", "release", "delete", f"v-{r['id']}", "-R", REPO, "-y", "--cleanup-tag"], check=False)
             r["release_deleted"] = True
             persist(q, f"cleanup {r['id']}")
+    if nonlocal_flag:
+        sys.exit("some posts failed; see FAILED lines above (they are retried on the next run, up to 3 times)")
 
 
 def cmd_check():

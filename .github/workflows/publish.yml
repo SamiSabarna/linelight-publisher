@@ -1,11 +1,12 @@
 # Line & Light / «خط وضوء» publisher. Separate from Yaqeen in every way (own repo, secrets, Buffer account, Google project).
-# Posting times are in queue.json (UTC). Defaults: English 14:00 UTC, Arabic 17:00 UTC (= 20:00 Amman).
-# GitHub delays and sometimes drops scheduled runs, so each posting hour gets four tries.
+# Posting times are in queue.json (UTC). Three a day per channel: Arabic 10:00/14:00/18:00 UTC (13/17/21 Amman),
+# English 13:00/17:00/23:00 UTC. GitHub delays and sometimes drops scheduled runs, so it checks every 15 minutes and
+# any overdue post goes out on the next run. An external trigger (cron-job.org) also calls workflow_dispatch.
 name: publish
 
 on:
   schedule:
-    - cron: "5,20,35,50 14,17 * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       mode:
