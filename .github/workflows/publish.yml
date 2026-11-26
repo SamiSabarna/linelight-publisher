@@ -1,0 +1,88 @@
+# Line & Light / «خط وضوء» publisher. Separate from Yaqeen in every way (own repo, secrets, Buffer account, Google project).
+# Posting times are in queue.json (UTC). Defaults: English 14:00 UTC, Arabic 17:00 UTC (= 20:00 Amman).
+# GitHub delays and sometimes drops scheduled runs, so each posting hour gets four tries.
+name: publish
+
+on:
+  schedule:
+    - cron: "5,20,35,50 14,17 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = verify secrets and connections only (publishes nothing)"
+        type: choice
+        options: [check, publish]
+        default: check
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+env:
+  MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'publish' }}
+
+jobs:
+  check:
+    if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_AR: ${{ secrets.YT_REFRESH_TOKEN_AR }}
+          YT_REFRESH_TOKEN_EN: ${{ secrets.YT_REFRESH_TOKEN_EN }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+        run: python publish.py --check
+
+  stage:
+    if: github.event_name == 'schedule' || inputs.mode == 'publish'
+    runs-on: ubuntu-latest
+    outputs:
+      due: ${{ steps.due.outputs.due }}
+      pages: ${{ steps.due.outputs.pages }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: due
+        run: python publish.py --due | tee -a "$GITHUB_OUTPUT"
+      - if: steps.due.outputs.pages == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python publish.py --stage
+      - if: steps.due.outputs.pages == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: stage
+    if: needs.stage.outputs.pages == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/deploy-pages@v4
+
+  post:
+    needs: [stage, deploy]
+    if: always() && needs.stage.outputs.due != '' && needs.deploy.result != 'failure'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "linelight-publisher"
+          git config user.email "linelight-publisher@users.noreply.github.com"
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_AR: ${{ secrets.YT_REFRESH_TOKEN_AR }}
+          YT_REFRESH_TOKEN_EN: ${{ secrets.YT_REFRESH_TOKEN_EN }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+        run: python publish.py --post

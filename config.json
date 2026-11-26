@@ -1,0 +1,20 @@
+{
+ "repo": "SamiSabarna/linelight-publisher",
+ "pages_base": "https://samisabarna.github.io/linelight-publisher",
+ "thumbnail_ms": 9000,
+ "slots_utc": {"en": "14:00", "ar": "17:00"},
+ "channels": {
+  "ar": {
+   "name": "خط وضوء",
+   "platforms": ["youtube", "instagram"],
+   "buffer": {"instagram": "6b07fabb8541f09ecbad158d"},
+   "yt_secret": "YT_REFRESH_TOKEN_AR"
+  },
+  "en": {
+   "name": "Line & Light",
+   "platforms": ["instagram"],
+   "buffer": {"instagram": "6b07f9a18541f09ecbad0b48"},
+   "yt_secret": "YT_REFRESH_TOKEN_EN"
+  }
+ }
+}
