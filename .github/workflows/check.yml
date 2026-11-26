@@ -1,0 +1,22 @@
+# Verifies the secrets and connections (Buffer channels, YouTube token). Publishes nothing.
+# Separate from publish.yml so it can run while publishing is switched off.
+name: check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_AR: ${{ secrets.YT_REFRESH_TOKEN_AR }}
+          YT_REFRESH_TOKEN_EN: ${{ secrets.YT_REFRESH_TOKEN_EN }}
+          BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+        run: python publish.py --check
