@@ -3,7 +3,7 @@
   "id": "en_climb",
   "lang": "en",
   "publish_at_utc": "2026-11-26T10:38",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "",
   "instagram_id": "buffer:6b080c872c18150e1046485b",
   "meta": {
@@ -26,7 +26,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-26T10:40"
  },
  {
   "id": "ar_climb",
