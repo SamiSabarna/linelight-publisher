@@ -93,7 +93,7 @@
   "id": "ar_wall",
   "lang": "ar",
   "publish_at_utc": "2026-11-26T18:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "aD4yALgpFj0",
   "instagram_id": "buffer:6b0873de3accdac92cea35ae",
   "meta": {
@@ -116,7 +116,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-26T18:01"
  },
  {
   "id": "en_seed",
