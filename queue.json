@@ -214,7 +214,7 @@
   "id": "ar_carry",
   "lang": "ar",
   "publish_at_utc": "2026-11-27T14:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "ALDqa5CnOfE",
   "instagram_id": "buffer:6b098d1f34d224b14a8a520d",
   "meta": {
@@ -238,7 +238,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-27T14:01"
  },
  {
   "id": "en_circle",
