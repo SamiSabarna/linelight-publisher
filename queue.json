@@ -153,7 +153,7 @@
   "id": "ar_seed",
   "lang": "ar",
   "publish_at_utc": "2026-11-27T10:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "DnHtFCYpLf0",
   "instagram_id": "buffer:6b0954de658222306c00cc22",
   "meta": {
@@ -176,7 +176,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-27T10:01"
  },
  {
   "id": "en_carry",
