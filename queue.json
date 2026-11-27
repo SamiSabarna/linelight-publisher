@@ -245,7 +245,7 @@
   "id": "en_circle",
   "lang": "en",
   "publish_at_utc": "2026-11-27T17:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "",
   "instagram_id": "buffer:6b09b74bf34d25de1e2e66cb",
   "meta": {
@@ -269,7 +269,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-27T17:01"
  },
  {
   "id": "ar_circle",
