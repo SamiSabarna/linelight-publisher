@@ -276,7 +276,7 @@
   "id": "ar_circle",
   "lang": "ar",
   "publish_at_utc": "2026-11-27T18:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "GvWp-qnz1c4",
   "instagram_id": "buffer:6b09c562f34d25de1e361059",
   "meta": {
@@ -300,7 +300,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-27T18:01"
  },
  {
   "id": "en_burden",
