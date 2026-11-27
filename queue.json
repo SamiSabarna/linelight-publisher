@@ -307,7 +307,7 @@
   "id": "en_burden",
   "lang": "en",
   "publish_at_utc": "2026-11-27T23:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "",
   "instagram_id": "buffer:6b0a0bad41454797eacf0c17",
   "meta": {
@@ -331,7 +331,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-27T23:01"
  },
  {
   "id": "ar_burden",
