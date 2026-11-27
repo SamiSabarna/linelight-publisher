@@ -7486,5 +7486,63 @@
     ]
    }
   }
+ },
+ {
+  "id": "en_butterfly",
+  "lang": "en",
+  "publish_at_utc": "2027-01-08T13:00",
+  "status": "pending",
+  "youtube_id": "",
+  "instagram_id": "",
+  "meta": {
+   "text": "Chase it, and it flies. Be still, and it lands.",
+   "theme": "calm",
+   "instagram": {
+    "caption": "Chase it, and it flies. Be still, and it lands.\n\nA 10-second reminder about calm and inner peace.\nWhat helps you slow down?\n\nSave this for the day you need it.\n\n#innerpeace #calmmind #mindfulness #linelight"
+   },
+   "youtube": {
+    "title": "Chase it, and it flies. Be still, and it lands. #shorts",
+    "description": "Chase it, and it flies. Be still, and it lands.\n\nA 10-second reminder about calm and inner peace.\nWhat helps you slow down?\n\nLine & Light: one idea, one line, every day.\n\n#innerpeace #calmmind #mindfulness #linelight",
+    "tags": [
+     "self improvement",
+     "mindset",
+     "animation",
+     "shorts",
+     "line and light",
+     "innerpeace",
+     "calmmind",
+     "mindfulness"
+    ]
+   }
+  }
+ },
+ {
+  "id": "ar_butterfly",
+  "lang": "ar",
+  "publish_at_utc": "2027-01-08T14:00",
+  "status": "pending",
+  "youtube_id": "",
+  "instagram_id": "",
+  "meta": {
+   "text": "طارِدْها فتطير، واسكُنْ فتحطَّ عليك.",
+   "theme": "calm",
+   "instagram": {
+    "caption": "طارِدْها فتطير، واسكُنْ فتحطَّ عليك.\n\nتذكيرٌ قصير عن الهدوء والسكينة.\nما الذي يساعدك على التمهّل؟\n\nاحفظ الفيديو لليوم الذي تحتاجه فيه.\n\n#السكينة #هدوء_النفس #راحة_البال #خط_وضوء"
+   },
+   "youtube": {
+    "title": "طارِدْها فتطير، واسكُنْ فتحطَّ عليك. #shorts",
+    "description": "طارِدْها فتطير، واسكُنْ فتحطَّ عليك.\n\nتذكيرٌ قصير عن الهدوء والسكينة.\nما الذي يساعدك على التمهّل؟\n\n«خط وضوء»: فكرة واحدة، سطر واحد، كل يوم.\n\n#السكينة #هدوء_النفس #راحة_البال #خط_وضوء",
+    "tags": [
+     "تطوير الذات",
+     "حكمة",
+     "رسوم متحركة",
+     "خط وضوء",
+     "shorts",
+     "السكينة",
+     "هدوء النفس",
+     "راحة البال"
+    ]
+   }
+  }
  }
 ]
