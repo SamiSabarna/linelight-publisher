@@ -402,7 +402,7 @@
   "id": "ar_race",
   "lang": "ar",
   "publish_at_utc": "2026-11-28T14:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "0S_CD-qDYsU",
   "instagram_id": "buffer:6b0ade9bbe536564e434cb70",
   "meta": {
@@ -426,7 +426,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-28T14:01"
  },
  {
   "id": "en_pawn",
