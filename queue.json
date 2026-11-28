@@ -89,7 +89,8 @@
    }
   },
   "fails": {},
-  "posted_at": "2026-11-26T17:01"
+  "posted_at": "2026-11-26T17:01",
+  "release_deleted": true
  },
  {
   "id": "ar_wall",
