@@ -369,7 +369,7 @@
   "id": "en_race",
   "lang": "en",
   "publish_at_utc": "2026-11-28T13:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "",
   "instagram_id": "buffer:6b0ad08ab8ec87c6cec71324",
   "meta": {
@@ -393,7 +393,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-28T13:01"
  },
  {
   "id": "ar_race",
