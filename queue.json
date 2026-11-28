@@ -338,7 +338,7 @@
   "id": "ar_burden",
   "lang": "ar",
   "publish_at_utc": "2026-11-28T10:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "dEI0vowwM40",
   "instagram_id": "buffer:6b0aa6692d54762da5a7d24f",
   "meta": {
@@ -362,7 +362,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-28T10:01"
  },
  {
   "id": "en_race",
