@@ -465,7 +465,7 @@
   "lang": "ar",
   "publish_at_utc": "2026-11-28T18:00",
   "status": "pending",
-  "youtube_id": "",
+  "youtube_id": "tHe3iVHYN54",
   "instagram_id": "",
   "meta": {
    "text": "خطوةً خطوة، يصبح الجنديُّ وزيرًا.",
@@ -487,7 +487,8 @@
      "تطوير الذات"
     ]
    }
-  }
+  },
+  "fails": {}
  },
  {
   "id": "en_screen",
