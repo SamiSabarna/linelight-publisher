@@ -464,7 +464,7 @@
   "id": "ar_pawn",
   "lang": "ar",
   "publish_at_utc": "2026-11-28T18:00",
-  "status": "pending",
+  "status": "posted",
   "youtube_id": "tHe3iVHYN54",
   "instagram_id": "buffer:6b0b16dfc2c05b6cf48db80f",
   "meta": {
@@ -488,7 +488,8 @@
     ]
    }
   },
-  "fails": {}
+  "fails": {},
+  "posted_at": "2026-11-28T18:01"
  },
  {
   "id": "en_screen",
